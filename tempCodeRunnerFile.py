@@ -1,0 +1,1 @@
+streamlit run FYP_DeploymentCode.py
